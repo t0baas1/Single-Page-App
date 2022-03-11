@@ -10,3 +10,5 @@ C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\obj
 C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\obj\Debug\CustomerBackend.csproj.CopyComplete
 C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\obj\Debug\CustomerBackend.exe
 C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\obj\Debug\CustomerBackend.pdb
+C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\bin\Debug\Newtonsoft.Json.xml
