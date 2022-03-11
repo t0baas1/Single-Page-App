@@ -1,0 +1,12 @@
+C:\Users\Topi\Desktop\My App\backend\backend\backend\bin\Debug\backend.exe.config
+C:\Users\Topi\Desktop\My App\backend\backend\backend\bin\Debug\backend.exe
+C:\Users\Topi\Desktop\My App\backend\backend\backend\bin\Debug\backend.pdb
+C:\Users\Topi\Desktop\My App\backend\backend\backend\bin\Debug\EntityFramework.dll
+C:\Users\Topi\Desktop\My App\backend\backend\backend\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Topi\Desktop\My App\backend\backend\backend\bin\Debug\EntityFramework.xml
+C:\Users\Topi\Desktop\My App\backend\backend\backend\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Topi\Desktop\My App\backend\backend\backend\obj\Debug\backend.csproj.AssemblyReference.cache
+C:\Users\Topi\Desktop\My App\backend\backend\backend\obj\Debug\backend.csproj.CoreCompileInputs.cache
+C:\Users\Topi\Desktop\My App\backend\backend\backend\obj\Debug\backend.csproj.CopyComplete
+C:\Users\Topi\Desktop\My App\backend\backend\backend\obj\Debug\backend.exe
+C:\Users\Topi\Desktop\My App\backend\backend\backend\obj\Debug\backend.pdb
