@@ -12,3 +12,17 @@ C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\obj
 C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\obj\Debug\CustomerBackend.pdb
 C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Topi\Desktop\My App\Single-Page-App\CustomerBackend\CustomerBackend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\bin\Debug\CustomerBackend.exe.config
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\bin\Debug\CustomerBackend.exe
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\bin\Debug\CustomerBackend.pdb
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\bin\Debug\EntityFramework.dll
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\bin\Debug\EntityFramework.xml
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\obj\Debug\CustomerBackend.csproj.AssemblyReference.cache
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\obj\Debug\CustomerBackend.csproj.CoreCompileInputs.cache
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\obj\Debug\CustomerBackend.csproj.CopyComplete
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\obj\Debug\CustomerBackend.exe
+C:\Users\Topi\Desktop\Finazilla\CustomerBackend\CustomerBackend\obj\Debug\CustomerBackend.pdb

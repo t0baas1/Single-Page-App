@@ -5,7 +5,7 @@ class Home extends Component {
     return (
       <div>
         <h2>Kaikki asiakkaat</h2>
-        <p>Tähän tulisi listaus kaikista tietokantaan tallenetuista asiakkaista.</p>
+        <p>Tähän tulisi listaus kaikista tietokantaan tallennetuista asiakkaista.</p>
       </div>
     );
   }
