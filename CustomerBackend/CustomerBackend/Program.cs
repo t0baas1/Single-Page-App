@@ -22,6 +22,7 @@ namespace CustomerBackend
             tulostus();
         }
 
+        // Haetaan annetusta urlista data. 
         public static string haedata(String url)
         {
             Console.WriteLine("Making API Call...");
@@ -32,6 +33,9 @@ namespace CustomerBackend
                 return response.Content.ReadAsStringAsync().Result;
             }
         }
+        
+        
+        // Parsitaan saatu data, ja tallennetaan yhdistettyyn tietokantaan.
         public static void parsija(string vastaus)
         {
             var context = new CustomersEntities1();
@@ -52,11 +56,12 @@ namespace CustomerBackend
             context.SaveChanges();
         }
 
+        // Tulostetaan halutut tiedot kannasta
         public static void tulostus()
         {
             using (var context = new CustomersEntities1())
             {
-                // Query for all enitities
+                // Querytetään halutut tiedot
                 var blogs = from b in context.Customers
                             select b;
                 foreach(var item in blogs)
