@@ -18,11 +18,10 @@ class Home extends Component {
     },
     
   ]}
-  
-
+ 
 }
 
-
+// Haetaan backendiltä kovakoodattu lista asiakkaista
   componentDidMount() {
     let self = this
     axios.get('http://localhost:5245/Customer', {})
@@ -32,6 +31,7 @@ class Home extends Component {
   }).catch(error => console.log(error))
     self.forceUpdate()
   }
+  
    render() {
     return (
       <div>
