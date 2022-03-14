@@ -17,38 +17,11 @@ public static class CustomerService
     static int nextId = 3;
     static CustomerService()
     {
-        string url = "http://www.filltext.com/?rows=100&pretty=true&id={index}&name={business}&address={addressObject}";
-        string vastaus = haedata(url);
-        parsija(vastaus);
-
-        Customers = new List<Customer>{};
-
-        static string haedata(String url)
+        Customers = new List<Customer>
         {
-            Console.WriteLine("Making API Call...");
-            using (var client = new HttpClient(new HttpClientHandler { AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Deflate }))
-            {
-                HttpResponseMessage response = client.GetAsync(url).Result;
-                response.EnsureSuccessStatusCode();
-                return response.Content.ReadAsStringAsync().Result;
-            }
-        }
-
-        static void parsija(string vastaus)
-        {
-            Console.WriteLine(vastaus);
-            Customer customerdata = JsonSerializer.Deserialize<Customer>(vastaus);
- 
-            Customers.Add(customerdata);
-;
-
-        }
- 
+            new Customer { Id = 1, Name = "Asiakas 1", StreetAddress = "Kauppakatu 1", City = "Jyväskylä", State = "Keski-Suomi", Zip = "40100"},
+            new Customer { Id = 1, Name = "Asiakas 2", StreetAddress = "Yliopistonkatu 2", City = "Jyväskylä", State = "Keski-Suomi", Zip = "40100"},
+        };
     }
-
-
-    
-
     public static List<Customer> GetAll() => Customers;
-
 }
