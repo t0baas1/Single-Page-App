@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Models",
-    "\\Services"
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net6.0",
+    "\\bin\\Release"
   ],
-  "SelectedNode": "\\Services\\CustomerService.cs",
+  "SelectedNode": "\\appsettings.Development.json",
   "PreviewInSolutionExplorer": false
 }
