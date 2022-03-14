@@ -15,12 +15,14 @@ public static class CustomerService
 {
     static List<Customer> Customers { get; }
     static int nextId = 3;
+    
+    // Kovakoodattu lista asiakkaista
     static CustomerService()
     {
         Customers = new List<Customer>
         {
-            new Customer { Id = 1, Name = "Asiakas 1", StreetAddress = "Kauppakatu 1", City = "Jyv‰skyl‰", State = "Keski-Suomi", Zip = "40100"},
-            new Customer { Id = 1, Name = "Asiakas 2", StreetAddress = "Yliopistonkatu 2", City = "Jyv‰skyl‰", State = "Keski-Suomi", Zip = "40100"},
+            new Customer { Id = 1, Name = "Asiakas 1", StreetAddress = "Kauppakatu 1", City = "Jyv√§skyl√§", State = "Keski-Suomi", Zip = "40100"},
+            new Customer { Id = 1, Name = "Asiakas 2", StreetAddress = "Yliopistonkatu 2", City = "Jyv√§skyl√§", State = "Keski-Suomi", Zip = "40100"},
         };
     }
     public static List<Customer> GetAll() => Customers;
